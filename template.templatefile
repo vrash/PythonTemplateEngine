@@ -1,0 +1,14 @@
+<html>
+  <head>
+    <title><* page.title *></title>
+  </head>
+  <body>
+    <h1><* teacher.name *></h1>
+    <% each students %>
+      <* it.name *>
+      <% each it.nicknames %>
+        <p><* it *></p>
+      <% end %>
+    <% end %>
+  </body>
+</html>

@@ -1,0 +1,12 @@
+{
+  "page": {
+    "title": "Templating Example"
+  },
+  "teacher": {
+    "name": "Mr. Crowley"
+  },
+  "students": [
+    { "name": "Bruce Wayne", "nicknames": ["Batman"] },
+    { "name": "Peter Parker", "nicknames": ["Spidey", "Spiderman", "Spider-Man"] }
+  ]
+}
